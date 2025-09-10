@@ -24,7 +24,7 @@
     "dotenv": "^16.4.7",
     "d-scrape": "^1.2.0",
         "canvafy": "^7.1.0",
-    "jimp": "^0.16.13",
+    "jimp": "^0.16.12",
     "libphonenumber-js": "^1.10.45",
     "moment-timezone": "^0.5.43",
     "mongoose": "^7.3.4",
